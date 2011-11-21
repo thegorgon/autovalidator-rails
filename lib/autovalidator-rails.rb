@@ -1,0 +1,1 @@
+require 'autovalidator/rails/engine'
